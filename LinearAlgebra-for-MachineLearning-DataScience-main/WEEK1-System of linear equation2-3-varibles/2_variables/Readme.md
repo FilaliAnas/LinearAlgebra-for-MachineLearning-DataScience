@@ -11,7 +11,7 @@ Myfirst notebook of this specialization! In this notebook, I will use NumPy to c
 - Find the shape of an array, reshape it and stack it horizontally and vertically.
 
  
-![image](https://github.com/FilaliAnas/LinearAlgebra-for-MachineLearning-DataScience/assets/107961652/412f9ac9-4833-4d02-abbe-7e4620782e09)
+![image](https://github.com/FilaliAnas/LinearAlgebra-for-MachineLearning-DataScience/LinearAlgebra-for-MachineLearning-DataScience-main/WEEK1-System of linear equation2-3-variblesassets/107961652/412f9ac9-4833-4d02-abbe-7e4620782e09)
 ![image](https://github.com/FilaliAnas/LinearAlgebra-for-MachineLearning-DataScience/assets/107961652/b2c57a4b-0b6e-4f0e-953f-755f11b7df56)
 
 ![image](https://github.com/FilaliAnas/LinearAlgebra-for-MachineLearning-DataScience/assets/107961652/7af0d9f3-ca9d-4576-bbf3-b78271ff4f82)
